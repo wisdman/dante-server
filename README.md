@@ -1,6 +1,6 @@
 # [Dante][dante] SOCKS server as [Docker][docker] container
 
-[Dante][dante] is a product developed by Inferno Nettverk A/S. The Dante SOCKS server interoperates with many popular network applications which already have SOCKS support built in to them, such as most web-browsers, instant messaging programs, Telegram, and many others. Developed by Inferno Nettverk A/S, Dante is released under a [BSD/CMU-type license][dante-license] and comes with complete source code. This Docker image is released under a [MIT license](LICENSE) and comes with complete configuration files and open user management scripts code.
+[Dante][dante] is a product developed by Inferno Nettverk A/S. The Dante SOCKS server interoperates with many popular network applications which already have SOCKS support built in to them, such as most web-browsers, instant messaging programs, Telegram, and many others. Developed by Inferno Nettverk A/S, Dante is released under a BSD/CMU-type [license][dante-license] and comes with complete source code. This Docker image is released under a [MIT license](LICENSE) and comes with complete configuration files and open user management scripts code.
 
 ## Usage
 
