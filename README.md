@@ -6,7 +6,7 @@
 
 ```console
 docker pull wisdman/dante-server
-docker run -d -p 1080:1080 --restart unless-stopped --name dante-server wisdman/dante-server
+docker run -d --net=host -p 1080:1080 --restart unless-stopped --name dante-server wisdman/dante-server
 ```
 
 ## Manage users
