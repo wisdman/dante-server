@@ -4,7 +4,9 @@
 [![Docker Build Status](https://img.shields.io/docker/build/wisdman/dante-server.svg)][docker]
 [![License](https://img.shields.io/github/license/wisdman/dante-server.svg)](LICENSE)
 
-[Dante][dante] is a product developed by Inferno Nettverk A/S. The Dante SOCKS server interoperates with many popular network applications which already have SOCKS support built in to them, such as most web-browsers, instant messaging programs, Telegram, and many others. Developed by Inferno Nettverk A/S, Dante is released under a [BSD/CMU-type license](ftp://ftp.inet.no/pub/socks/LICENSE) and comes with complete source code. This Docker image is released under a [MIT license](LICENSE) and comes with complete configuration files and open user management scripts code.
+[Dante][dante] is a product developed by Inferno Nettverk A/S. The Dante SOCKS server interoperates with many popular network applications which already have SOCKS support built in to them, such as most web-browsers, instant messaging programs, Telegram, and many others. Developed by Inferno Nettverk A/S, Dante is released under a [BSD/CMU-type license](ftp://ftp.inet.no/pub/socks/LICENSE) and comes with complete source code.
+
+This Docker image is released under a [MIT license](LICENSE) and comes with complete configuration files and open user management scripts code.
 
 ### Usage
 
@@ -33,6 +35,7 @@ curl -x socks5://<username>:<password>@localhost:1080 https://google.com
 ### Donation
 
 * PayPal: https://www.paypal.me/wisdman
+* YandexMoney: https://yasobe.ru/na/wisdman
 * BTC: 1862ZyKQLpkrnHC5zN2Xm8UtwW7PEHnFTW
 * ETH: 0x1572F3A21487eDD3b88811F87520e8cadB1ee136
 
